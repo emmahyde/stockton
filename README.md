@@ -2,6 +2,8 @@
 
 `Stocktown "Gold" Rush` is my Stock Trading bot. He is a python kinda guy.
 
+Project board is here: https://github.com/users/emmahyde/projects/5
+
 # Getting Started
 
 - Go to [the Anaconda website](https://www.anaconda.com/).
